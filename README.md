@@ -12,5 +12,5 @@ Boat test level
 ![BoatSpawn](https://github.com/user-attachments/assets/4162320b-6073-4399-b131-6794c48d7d7a)
 Boat has defined buoyancy physics and interacts with collision gameobjects, waves and water in general 
 ![BoatSink](https://github.com/user-attachments/assets/98018df5-552e-4655-863e-4d85370632aa)
-Boat smokes when thrust is added and stops when it is not moving or if it is sinking, the rudder is what controlls the lateral movement
+Boat exhaust smokes when thrust is added and stops when it is not moving or if it is sinking. The rudder controls the heading of the boat (its yaw)
 ![BoatSmokeAndRudder](https://github.com/user-attachments/assets/1f1a0054-cde7-42ae-b2be-4c59bfb3d454)
