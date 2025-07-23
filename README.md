@@ -54,3 +54,5 @@ Water drag simulation for natural slowing.
 Rudder-based steering system.
 
 Wave interaction affecting movement.
+
+Link to gameplay showcase: https://www.youtube.com/watch?v=fUv9R0UrjQw&ab_channel=UpandOver
